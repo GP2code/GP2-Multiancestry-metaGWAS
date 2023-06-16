@@ -2,6 +2,8 @@
 
 `GP2 ❤️ Open Science 😍`
 
+[![DOI](https://zenodo.org/badge/654315079.svg)](https://zenodo.org/badge/latestdoi/654315079)
+
  - **Project:** Multi-ancestry Meta-Analysis and Fine-Mapping in PD
  - **Date Last Updated:** June 2023 
     - **Update Description:** Updated README, relocated repo
